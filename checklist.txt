@@ -1,0 +1,10 @@
+1Id
+2Title
+3Environment
+4Precondition
+5Inputs
+6Step to reproduce
+7Expected result
+8Actual result
+9Status
+10 Attachment
